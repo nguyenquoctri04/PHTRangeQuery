@@ -3,7 +3,7 @@
 Đề tài #67: xây dựng hệ thống truy vấn khoảng trong mạng ngang hàng bằng
 **Prefix Hash Tree (PHT)** trên nền **Chord Distributed Hash Table (DHT)**.
 
-Hệ thống dùng dữ liệu cảm biến nhiệt độ. Mục tiêu là so sánh:
+Hệ thống dùng dữ liệu nhiệt độ có giá trị từ -20 đến 50. Mục tiêu là so sánh:
 
 - **Individual DHT point lookups**: tách range query thành nhiều lookup theo
   từng giá trị nhiệt độ.
