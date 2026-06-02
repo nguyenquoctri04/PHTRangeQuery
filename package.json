@@ -1,0 +1,11 @@
+{
+  "name": "pht-sensor-alerts-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate:dataset": "node scripts/generate-dataset.js",
+    "load:dataset": "node scripts/load-dataset.js",
+    "demo": "node scripts/demo-comparison.js",
+    "demo:failure": "node scripts/failure-demo.js"
+  }
+}
