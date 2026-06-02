@@ -293,23 +293,11 @@ dataset.
 ├── bootstrap-node/        # Bootstrap service
 ├── peer/                  # Peer service: Chord, PHT, query, storage
 ├── scripts/               # Dataset, load, demo, failure demo
-├── storage/               # Runtime local JSON storage, không cần push
+├── storage/               # Runtime local JSON storage
 ├── docker-compose.yml
 ├── package.json
 ├── REPORT.md
 └── README.md
 ```
 
-## 12. Ghi chú khi push GitHub
-
-Các file/thư mục runtime như `node_modules`, `storage`, `dataset.json`,
-`report-results.json`, logs và cache đã được loại trừ trong `.gitignore`.
-
-Các file nên push:
-
-- Source code trong `bootstrap-node`, `peer`, `scripts`
-- `docker-compose.yml`
-- `package.json`
-- `README.md`
-- `REPORT.md`
 
