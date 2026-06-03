@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-05-28T14:49:02.684Z",
+  "narrow": {
+    "label": "NARROW",
+    "range": {
+      "min": 20,
+      "max": 25
+    },
+    "pointLookups": {
+      "queryType": "dht-individual-point-lookups",
+      "resultsCount": 224,
+      "peersContacted": 3,
+      "messagesSent": 12,
+      "queryHops": 18,
+      "latencyMs": 19,
+      "routingPathLength": 18,
+      "pointLookups": 6,
+      "coveringPrefixes": []
+    },
+    "pht": {
+      "queryType": "pht-optimized-range-query",
+      "resultsCount": 224,
+      "peersContacted": 3,
+      "messagesSent": 6,
+      "queryHops": 48,
+      "latencyMs": 23,
+      "routingPathLength": 48,
+      "coveringPrefixes": [
+        "0101000",
+        "0101001",
+        "0101010",
+        "0101011",
+        "0101100",
+        "0101101"
+      ],
+      "theoreticalCoveringPrefixes": [
+        "01010",
+        "010110"
+      ]
+    },
+    "improvement": {
+      "peersContactedReducedBy": 0,
+      "messagesReducedBy": 6,
+      "latencyReducedByMs": -4
+    }
+  },
+  "wide": {
+    "label": "WIDE",
+    "range": {
+      "min": -10,
+      "max": 40
+    },
+    "pointLookups": {
+      "queryType": "dht-individual-point-lookups",
+      "resultsCount": 907,
+      "peersContacted": 5,
+      "messagesSent": 102,
+      "queryHops": 152,
+      "latencyMs": 99,
+      "routingPathLength": 152,
+      "pointLookups": 51,
+      "coveringPrefixes": []
+    },
+    "pht": {
+      "queryType": "pht-optimized-range-query",
+      "resultsCount": 907,
+      "peersContacted": 4,
+      "messagesSent": 8,
+      "queryHops": 234,
+      "latencyMs": 134,
+      "routingPathLength": 234,
+      "coveringPrefixes": [
+        "000101",
+        "000110",
+        "000111",
+        "001000",
+        "0010010",
+        "0010011",
+        "001010",
+        "001011",
+        "001100",
+        "001101",
+        "001110",
+        "001111",
+        "010000",
+        "010001",
+        "010010",
+        "010011",
+        "0101000",
+        "0101001",
+        "0101010",
+        "0101011",
+        "0101100",
+        "0101101",
+        "0101110",
+        "0101111",
+        "0110000",
+        "0110001",
+        "0110010",
+        "0110011",
+        "0110100",
+        "0110101",
+        "0110110",
+        "0110111",
+        "0111000",
+        "0111001",
+        "0111010",
+        "0111011",
+        "0111100"
+      ],
+      "theoreticalCoveringPrefixes": [
+        "000101",
+        "00011",
+        "001",
+        "010",
+        "0110",
+        "01110",
+        "0111100"
+      ]
+    },
+    "improvement": {
+      "peersContactedReducedBy": 1,
+      "messagesReducedBy": 94,
+      "latencyReducedByMs": -35
+    }
+  },
+  "conclusion": {
+    "pointLookups": "A DHT without range support must resolve each exact temperature point in the requested interval.",
+    "pht": "PHT contacts only owners of relevant prefix leaves and reduces messages for selective ranges."
+  }
+}

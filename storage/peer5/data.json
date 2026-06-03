@@ -1,0 +1,1920 @@
+{
+  "primary": [
+    {
+      "id": 34,
+      "sensorId": "S075",
+      "temperature": 34,
+      "timestamp": "2026-05-27T10:00:34.000Z",
+      "recordKey": "34_34"
+    },
+    {
+      "id": 36,
+      "sensorId": "S015",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:00:36.000Z",
+      "recordKey": "35_36"
+    },
+    {
+      "id": 42,
+      "sensorId": "S009",
+      "temperature": 33,
+      "timestamp": "2026-05-27T10:00:42.000Z",
+      "recordKey": "33_42"
+    },
+    {
+      "id": 54,
+      "sensorId": "S101",
+      "temperature": 44,
+      "timestamp": "2026-05-27T10:00:54.000Z",
+      "recordKey": "44_54"
+    },
+    {
+      "id": 56,
+      "sensorId": "S047",
+      "temperature": 25,
+      "timestamp": "2026-05-27T10:00:56.000Z",
+      "recordKey": "25_56"
+    },
+    {
+      "id": 60,
+      "sensorId": "S039",
+      "temperature": 20,
+      "timestamp": "2026-05-27T10:01:00.000Z",
+      "recordKey": "20_60"
+    },
+    {
+      "id": 66,
+      "sensorId": "S058",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:01:06.000Z",
+      "recordKey": "35_66"
+    },
+    {
+      "id": 68,
+      "sensorId": "S050",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:01:08.000Z",
+      "recordKey": "35_68"
+    },
+    {
+      "id": 82,
+      "sensorId": "S018",
+      "temperature": 28,
+      "timestamp": "2026-05-27T10:01:22.000Z",
+      "recordKey": "28_82"
+    },
+    {
+      "id": 87,
+      "sensorId": "S115",
+      "temperature": 31,
+      "timestamp": "2026-05-27T10:01:27.000Z",
+      "recordKey": "31_87"
+    },
+    {
+      "id": 88,
+      "sensorId": "S092",
+      "temperature": 50,
+      "timestamp": "2026-05-27T10:01:28.000Z",
+      "recordKey": "50_88"
+    },
+    {
+      "id": 98,
+      "sensorId": "S045",
+      "temperature": 20,
+      "timestamp": "2026-05-27T10:01:38.000Z",
+      "recordKey": "20_98"
+    },
+    {
+      "id": 101,
+      "sensorId": "S048",
+      "temperature": 23,
+      "timestamp": "2026-05-27T10:01:41.000Z",
+      "recordKey": "23_101"
+    },
+    {
+      "id": 104,
+      "sensorId": "S021",
+      "temperature": 50,
+      "timestamp": "2026-05-27T10:01:44.000Z",
+      "recordKey": "50_104"
+    },
+    {
+      "id": 115,
+      "sensorId": "S035",
+      "temperature": 20,
+      "timestamp": "2026-05-27T10:01:55.000Z",
+      "recordKey": "20_115"
+    },
+    {
+      "id": 120,
+      "sensorId": "S010",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:02:00.000Z",
+      "recordKey": "35_120"
+    },
+    {
+      "id": 125,
+      "sensorId": "S079",
+      "temperature": 39,
+      "timestamp": "2026-05-27T10:02:05.000Z",
+      "recordKey": "39_125"
+    },
+    {
+      "id": 131,
+      "sensorId": "S103",
+      "temperature": 21,
+      "timestamp": "2026-05-27T10:02:11.000Z",
+      "recordKey": "21_131"
+    },
+    {
+      "id": 153,
+      "sensorId": "S082",
+      "temperature": 30,
+      "timestamp": "2026-05-27T10:02:33.000Z",
+      "recordKey": "30_153"
+    },
+    {
+      "id": 154,
+      "sensorId": "S016",
+      "temperature": -8,
+      "timestamp": "2026-05-27T10:02:34.000Z",
+      "recordKey": "-8_154"
+    },
+    {
+      "id": 169,
+      "sensorId": "S009",
+      "temperature": 12,
+      "timestamp": "2026-05-27T10:02:49.000Z",
+      "recordKey": "12_169"
+    },
+    {
+      "id": 193,
+      "sensorId": "S088",
+      "temperature": 19,
+      "timestamp": "2026-05-27T10:03:13.000Z",
+      "recordKey": "19_193"
+    },
+    {
+      "id": 206,
+      "sensorId": "S007",
+      "temperature": 29,
+      "timestamp": "2026-05-27T10:03:26.000Z",
+      "recordKey": "29_206"
+    },
+    {
+      "id": 207,
+      "sensorId": "S118",
+      "temperature": 50,
+      "timestamp": "2026-05-27T10:03:27.000Z",
+      "recordKey": "50_207"
+    },
+    {
+      "id": 208,
+      "sensorId": "S057",
+      "temperature": 25,
+      "timestamp": "2026-05-27T10:03:28.000Z",
+      "recordKey": "25_208"
+    },
+    {
+      "id": 219,
+      "sensorId": "S099",
+      "temperature": 16,
+      "timestamp": "2026-05-27T10:03:39.000Z",
+      "recordKey": "16_219"
+    },
+    {
+      "id": 223,
+      "sensorId": "S044",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:03:43.000Z",
+      "recordKey": "35_223"
+    },
+    {
+      "id": 228,
+      "sensorId": "S055",
+      "temperature": 32,
+      "timestamp": "2026-05-27T10:03:48.000Z",
+      "recordKey": "32_228"
+    },
+    {
+      "id": 233,
+      "sensorId": "S053",
+      "temperature": 32,
+      "timestamp": "2026-05-27T10:03:53.000Z",
+      "recordKey": "32_233"
+    },
+    {
+      "id": 250,
+      "sensorId": "S010",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:04:10.000Z",
+      "recordKey": "35_250"
+    },
+    {
+      "id": 254,
+      "sensorId": "S043",
+      "temperature": -8,
+      "timestamp": "2026-05-27T10:04:14.000Z",
+      "recordKey": "-8_254"
+    },
+    {
+      "id": 276,
+      "sensorId": "S115",
+      "temperature": 31,
+      "timestamp": "2026-05-27T10:04:36.000Z",
+      "recordKey": "31_276"
+    },
+    {
+      "id": 278,
+      "sensorId": "S113",
+      "temperature": 20,
+      "timestamp": "2026-05-27T10:04:38.000Z",
+      "recordKey": "20_278"
+    },
+    {
+      "id": 288,
+      "sensorId": "S056",
+      "temperature": 38,
+      "timestamp": "2026-05-27T10:04:48.000Z",
+      "recordKey": "38_288"
+    },
+    {
+      "id": 293,
+      "sensorId": "S024",
+      "temperature": 26,
+      "timestamp": "2026-05-27T10:04:53.000Z",
+      "recordKey": "26_293"
+    },
+    {
+      "id": 302,
+      "sensorId": "S104",
+      "temperature": 34,
+      "timestamp": "2026-05-27T10:05:02.000Z",
+      "recordKey": "34_302"
+    },
+    {
+      "id": 306,
+      "sensorId": "S095",
+      "temperature": 24,
+      "timestamp": "2026-05-27T10:05:06.000Z",
+      "recordKey": "24_306"
+    },
+    {
+      "id": 315,
+      "sensorId": "S001",
+      "temperature": -1,
+      "timestamp": "2026-05-27T10:05:15.000Z",
+      "recordKey": "-1_315"
+    },
+    {
+      "id": 317,
+      "sensorId": "S021",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:05:17.000Z",
+      "recordKey": "35_317"
+    },
+    {
+      "id": 322,
+      "sensorId": "S010",
+      "temperature": 29,
+      "timestamp": "2026-05-27T10:05:22.000Z",
+      "recordKey": "29_322"
+    },
+    {
+      "id": 384,
+      "sensorId": "S061",
+      "temperature": 22,
+      "timestamp": "2026-05-27T10:06:24.000Z",
+      "recordKey": "22_384"
+    },
+    {
+      "id": 416,
+      "sensorId": "S022",
+      "temperature": 3,
+      "timestamp": "2026-05-27T10:06:56.000Z",
+      "recordKey": "3_416"
+    },
+    {
+      "id": 429,
+      "sensorId": "S014",
+      "temperature": 39,
+      "timestamp": "2026-05-27T10:07:09.000Z",
+      "recordKey": "39_429"
+    },
+    {
+      "id": 440,
+      "sensorId": "S009",
+      "temperature": 26,
+      "timestamp": "2026-05-27T10:07:20.000Z",
+      "recordKey": "26_440"
+    },
+    {
+      "id": 456,
+      "sensorId": "S017",
+      "temperature": 31,
+      "timestamp": "2026-05-27T10:07:36.000Z",
+      "recordKey": "31_456"
+    },
+    {
+      "id": 467,
+      "sensorId": "S056",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:07:47.000Z",
+      "recordKey": "35_467"
+    },
+    {
+      "id": 491,
+      "sensorId": "S065",
+      "temperature": 39,
+      "timestamp": "2026-05-27T10:08:11.000Z",
+      "recordKey": "39_491"
+    },
+    {
+      "id": 496,
+      "sensorId": "S080",
+      "temperature": 14,
+      "timestamp": "2026-05-27T10:08:16.000Z",
+      "recordKey": "14_496"
+    },
+    {
+      "id": 497,
+      "sensorId": "S107",
+      "temperature": 5,
+      "timestamp": "2026-05-27T10:08:17.000Z",
+      "recordKey": "5_497"
+    },
+    {
+      "id": 502,
+      "sensorId": "S066",
+      "temperature": 28,
+      "timestamp": "2026-05-27T10:08:22.000Z",
+      "recordKey": "28_502"
+    },
+    {
+      "id": 510,
+      "sensorId": "S094",
+      "temperature": -16,
+      "timestamp": "2026-05-27T10:08:30.000Z",
+      "recordKey": "-16_510"
+    },
+    {
+      "id": 540,
+      "sensorId": "S021",
+      "temperature": -7,
+      "timestamp": "2026-05-27T10:09:00.000Z",
+      "recordKey": "-7_540"
+    },
+    {
+      "id": 597,
+      "sensorId": "S027",
+      "temperature": 17,
+      "timestamp": "2026-05-27T10:09:57.000Z",
+      "recordKey": "17_597"
+    },
+    {
+      "id": 600,
+      "sensorId": "S085",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:10:00.000Z",
+      "recordKey": "35_600"
+    },
+    {
+      "id": 612,
+      "sensorId": "S037",
+      "temperature": 21,
+      "timestamp": "2026-05-27T10:10:12.000Z",
+      "recordKey": "21_612"
+    },
+    {
+      "id": 614,
+      "sensorId": "S013",
+      "temperature": -15,
+      "timestamp": "2026-05-27T10:10:14.000Z",
+      "recordKey": "-15_614"
+    },
+    {
+      "id": 624,
+      "sensorId": "S006",
+      "temperature": 21,
+      "timestamp": "2026-05-27T10:10:24.000Z",
+      "recordKey": "21_624"
+    },
+    {
+      "id": 639,
+      "sensorId": "S038",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:10:39.000Z",
+      "recordKey": "35_639"
+    },
+    {
+      "id": 661,
+      "sensorId": "S099",
+      "temperature": 32,
+      "timestamp": "2026-05-27T10:11:01.000Z",
+      "recordKey": "32_661"
+    },
+    {
+      "id": 666,
+      "sensorId": "S047",
+      "temperature": -2,
+      "timestamp": "2026-05-27T10:11:06.000Z",
+      "recordKey": "-2_666"
+    },
+    {
+      "id": 676,
+      "sensorId": "S071",
+      "temperature": 40,
+      "timestamp": "2026-05-27T10:11:16.000Z",
+      "recordKey": "40_676"
+    },
+    {
+      "id": 678,
+      "sensorId": "S087",
+      "temperature": 23,
+      "timestamp": "2026-05-27T10:11:18.000Z",
+      "recordKey": "23_678"
+    },
+    {
+      "id": 691,
+      "sensorId": "S028",
+      "temperature": 33,
+      "timestamp": "2026-05-27T10:11:31.000Z",
+      "recordKey": "33_691"
+    },
+    {
+      "id": 711,
+      "sensorId": "S011",
+      "temperature": 20,
+      "timestamp": "2026-05-27T10:11:51.000Z",
+      "recordKey": "20_711"
+    },
+    {
+      "id": 745,
+      "sensorId": "S001",
+      "temperature": 21,
+      "timestamp": "2026-05-27T10:12:25.000Z",
+      "recordKey": "21_745"
+    },
+    {
+      "id": 757,
+      "sensorId": "S067",
+      "temperature": 29,
+      "timestamp": "2026-05-27T10:12:37.000Z",
+      "recordKey": "29_757"
+    },
+    {
+      "id": 759,
+      "sensorId": "S118",
+      "temperature": 36,
+      "timestamp": "2026-05-27T10:12:39.000Z",
+      "recordKey": "36_759"
+    },
+    {
+      "id": 797,
+      "sensorId": "S014",
+      "temperature": 28,
+      "timestamp": "2026-05-27T10:13:17.000Z",
+      "recordKey": "28_797"
+    },
+    {
+      "id": 799,
+      "sensorId": "S072",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:13:19.000Z",
+      "recordKey": "35_799"
+    },
+    {
+      "id": 800,
+      "sensorId": "S081",
+      "temperature": 36,
+      "timestamp": "2026-05-27T10:13:20.000Z",
+      "recordKey": "36_800"
+    },
+    {
+      "id": 803,
+      "sensorId": "S036",
+      "temperature": 45,
+      "timestamp": "2026-05-27T10:13:23.000Z",
+      "recordKey": "45_803"
+    },
+    {
+      "id": 821,
+      "sensorId": "S097",
+      "temperature": 0,
+      "timestamp": "2026-05-27T10:13:41.000Z",
+      "recordKey": "0_821"
+    },
+    {
+      "id": 822,
+      "sensorId": "S099",
+      "temperature": 7,
+      "timestamp": "2026-05-27T10:13:42.000Z",
+      "recordKey": "7_822"
+    },
+    {
+      "id": 825,
+      "sensorId": "S084",
+      "temperature": 7,
+      "timestamp": "2026-05-27T10:13:45.000Z",
+      "recordKey": "7_825"
+    },
+    {
+      "id": 834,
+      "sensorId": "S021",
+      "temperature": 29,
+      "timestamp": "2026-05-27T10:13:54.000Z",
+      "recordKey": "29_834"
+    },
+    {
+      "id": 841,
+      "sensorId": "S115",
+      "temperature": 23,
+      "timestamp": "2026-05-27T10:14:01.000Z",
+      "recordKey": "23_841"
+    },
+    {
+      "id": 850,
+      "sensorId": "S013",
+      "temperature": 26,
+      "timestamp": "2026-05-27T10:14:10.000Z",
+      "recordKey": "26_850"
+    },
+    {
+      "id": 857,
+      "sensorId": "S101",
+      "temperature": 20,
+      "timestamp": "2026-05-27T10:14:17.000Z",
+      "recordKey": "20_857"
+    },
+    {
+      "id": 875,
+      "sensorId": "S045",
+      "temperature": 40,
+      "timestamp": "2026-05-27T10:14:35.000Z",
+      "recordKey": "40_875"
+    },
+    {
+      "id": 889,
+      "sensorId": "S072",
+      "temperature": 31,
+      "timestamp": "2026-05-27T10:14:49.000Z",
+      "recordKey": "31_889"
+    },
+    {
+      "id": 896,
+      "sensorId": "S097",
+      "temperature": 25,
+      "timestamp": "2026-05-27T10:14:56.000Z",
+      "recordKey": "25_896"
+    },
+    {
+      "id": 897,
+      "sensorId": "S088",
+      "temperature": 21,
+      "timestamp": "2026-05-27T10:14:57.000Z",
+      "recordKey": "21_897"
+    },
+    {
+      "id": 898,
+      "sensorId": "S120",
+      "temperature": 33,
+      "timestamp": "2026-05-27T10:14:58.000Z",
+      "recordKey": "33_898"
+    },
+    {
+      "id": 899,
+      "sensorId": "S034",
+      "temperature": 36,
+      "timestamp": "2026-05-27T10:14:59.000Z",
+      "recordKey": "36_899"
+    },
+    {
+      "id": 903,
+      "sensorId": "S001",
+      "temperature": 31,
+      "timestamp": "2026-05-27T10:15:03.000Z",
+      "recordKey": "31_903"
+    },
+    {
+      "id": 910,
+      "sensorId": "S090",
+      "temperature": 21,
+      "timestamp": "2026-05-27T10:15:10.000Z",
+      "recordKey": "21_910"
+    },
+    {
+      "id": 919,
+      "sensorId": "S035",
+      "temperature": 27,
+      "timestamp": "2026-05-27T10:15:19.000Z",
+      "recordKey": "27_919"
+    },
+    {
+      "id": 929,
+      "sensorId": "S085",
+      "temperature": 10,
+      "timestamp": "2026-05-27T10:15:29.000Z",
+      "recordKey": "10_929"
+    },
+    {
+      "id": 961,
+      "sensorId": "S031",
+      "temperature": 28,
+      "timestamp": "2026-05-27T10:16:01.000Z",
+      "recordKey": "28_961"
+    },
+    {
+      "id": 963,
+      "sensorId": "S119",
+      "temperature": 23,
+      "timestamp": "2026-05-27T10:16:03.000Z",
+      "recordKey": "23_963"
+    },
+    {
+      "id": 970,
+      "sensorId": "S050",
+      "temperature": 43,
+      "timestamp": "2026-05-27T10:16:10.000Z",
+      "recordKey": "43_970"
+    },
+    {
+      "id": 975,
+      "sensorId": "S112",
+      "temperature": 34,
+      "timestamp": "2026-05-27T10:16:15.000Z",
+      "recordKey": "34_975"
+    },
+    {
+      "id": 979,
+      "sensorId": "S020",
+      "temperature": 33,
+      "timestamp": "2026-05-27T10:16:19.000Z",
+      "recordKey": "33_979"
+    },
+    {
+      "id": 980,
+      "sensorId": "S015",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:16:20.000Z",
+      "recordKey": "35_980"
+    },
+    {
+      "id": 982,
+      "sensorId": "S027",
+      "temperature": 46,
+      "timestamp": "2026-05-27T10:16:22.000Z",
+      "recordKey": "46_982"
+    },
+    {
+      "id": 994,
+      "sensorId": "S016",
+      "temperature": 31,
+      "timestamp": "2026-05-27T10:16:34.000Z",
+      "recordKey": "31_994"
+    },
+    {
+      "id": 1000,
+      "sensorId": "S116",
+      "temperature": 36,
+      "timestamp": "2026-05-27T10:16:40.000Z",
+      "recordKey": "36_1000"
+    },
+    {
+      "id": 7,
+      "sensorId": "S037",
+      "temperature": 34,
+      "timestamp": "2026-05-27T10:00:07.000Z",
+      "recordKey": "34_7"
+    },
+    {
+      "id": 15,
+      "sensorId": "S025",
+      "temperature": 29,
+      "timestamp": "2026-05-27T10:00:15.000Z",
+      "recordKey": "29_15"
+    },
+    {
+      "id": 19,
+      "sensorId": "S049",
+      "temperature": 29,
+      "timestamp": "2026-05-27T10:00:19.000Z",
+      "recordKey": "29_19"
+    },
+    {
+      "id": 25,
+      "sensorId": "S025",
+      "temperature": 33,
+      "timestamp": "2026-05-27T10:00:25.000Z",
+      "recordKey": "33_25"
+    },
+    {
+      "id": 28,
+      "sensorId": "S087",
+      "temperature": 26,
+      "timestamp": "2026-05-27T10:00:28.000Z",
+      "recordKey": "26_28"
+    },
+    {
+      "id": 29,
+      "sensorId": "S064",
+      "temperature": 23,
+      "timestamp": "2026-05-27T10:00:29.000Z",
+      "recordKey": "23_29"
+    }
+  ],
+  "replica": [
+    {
+      "id": 45,
+      "sensorId": "S088",
+      "temperature": 22,
+      "timestamp": "2026-05-27T10:00:45.000Z",
+      "recordKey": "22_45"
+    },
+    {
+      "id": 71,
+      "sensorId": "S086",
+      "temperature": -15,
+      "timestamp": "2026-05-27T10:01:11.000Z",
+      "recordKey": "-15_71"
+    },
+    {
+      "id": 173,
+      "sensorId": "S119",
+      "temperature": 35,
+      "timestamp": "2026-05-27T10:02:53.000Z",
+      "recordKey": "35_173"
+    },
+    {
+      "id": 205,
+      "sensorId": "S007",
+      "temperature": 37,
+      "timestamp": "2026-05-27T10:03:25.000Z",
+      "recordKey": "37_205"
+    },
+    {
+      "id": 268,
+      "sensorId": "S107",
+      "temperature": 38,
+      "timestamp": "2026-05-27T10:04:28.000Z",
+      "recordKey": "38_268"
+    },
+    {
+      "id": 374,
+      "sensorId": "S105",
+      "temperature": 37,
+      "timestamp": "2026-05-27T10:06:14.000Z",
+      "recordKey": "37_374"
+    },
+    {
+      "id": 405,
+      "sensorId": "S071",
+      "temperature": 34,
+      "timestamp": "2026-05-27T10:06:45.000Z",
+      "recordKey": "34_405"
+    },
+    {
+      "id": 407,
+      "sensorId": "S004",
+      "temperature": 38,
+      "timestamp": "2026-05-27T10:06:47.000Z",
+      "recordKey": "38_407"
+    },
+    {
+      "id": 517,
+      "sensorId": "S023",
+      "temperature": 25,
+      "timestamp": "2026-05-27T10:08:37.000Z",
+      "recordKey": "25_517"
+    },
+    {
+      "id": 595,
+      "sensorId": "S042",
+      "temperature": 42,
+      "timestamp": "2026-05-27T10:09:55.000Z",
+      "recordKey": "42_595"
+    },
+    {
+      "id": 642,
+      "sensorId": "S083",
+      "temperature": 28,
+      "timestamp": "2026-05-27T10:10:42.000Z",
+      "recordKey": "28_642"
+    },
+    {
+      "id": 684,
+      "sensorId": "S043",
+      "temperature": 22,
+      "timestamp": "2026-05-27T10:11:24.000Z",
+      "recordKey": "22_684"
+    },
+    {
+      "id": 696,
+      "sensorId": "S035",
+      "temperature": -6,
+      "timestamp": "2026-05-27T10:11:36.000Z",
+      "recordKey": "-6_696"
+    },
+    {
+      "id": 781,
+      "sensorId": "S009",
+      "temperature": -19,
+      "timestamp": "2026-05-27T10:13:01.000Z",
+      "recordKey": "-19_781"
+    }
+  ],
+  "tempIndex": {
+    "primary": {
+      "8": [
+        {
+          "id": 133,
+          "sensorId": "S025",
+          "temperature": 8,
+          "timestamp": "2026-05-27T10:02:13.000Z",
+          "recordKey": "8_133"
+        },
+        {
+          "id": 671,
+          "sensorId": "S106",
+          "temperature": 8,
+          "timestamp": "2026-05-27T10:11:11.000Z",
+          "recordKey": "8_671"
+        },
+        {
+          "id": 729,
+          "sensorId": "S031",
+          "temperature": 8,
+          "timestamp": "2026-05-27T10:12:09.000Z",
+          "recordKey": "8_729"
+        }
+      ],
+      "26": [
+        {
+          "id": 85,
+          "sensorId": "S060",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:01:25.000Z",
+          "recordKey": "26_85"
+        },
+        {
+          "id": 167,
+          "sensorId": "S106",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:02:47.000Z",
+          "recordKey": "26_167"
+        },
+        {
+          "id": 188,
+          "sensorId": "S010",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:03:08.000Z",
+          "recordKey": "26_188"
+        },
+        {
+          "id": 199,
+          "sensorId": "S017",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:03:19.000Z",
+          "recordKey": "26_199"
+        },
+        {
+          "id": 236,
+          "sensorId": "S112",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:03:56.000Z",
+          "recordKey": "26_236"
+        },
+        {
+          "id": 286,
+          "sensorId": "S035",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:04:46.000Z",
+          "recordKey": "26_286"
+        },
+        {
+          "id": 293,
+          "sensorId": "S024",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:04:53.000Z",
+          "recordKey": "26_293"
+        },
+        {
+          "id": 318,
+          "sensorId": "S029",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:05:18.000Z",
+          "recordKey": "26_318"
+        },
+        {
+          "id": 387,
+          "sensorId": "S018",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:06:27.000Z",
+          "recordKey": "26_387"
+        },
+        {
+          "id": 411,
+          "sensorId": "S078",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:06:51.000Z",
+          "recordKey": "26_411"
+        },
+        {
+          "id": 440,
+          "sensorId": "S009",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:07:20.000Z",
+          "recordKey": "26_440"
+        },
+        {
+          "id": 450,
+          "sensorId": "S040",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:07:30.000Z",
+          "recordKey": "26_450"
+        },
+        {
+          "id": 503,
+          "sensorId": "S053",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:08:23.000Z",
+          "recordKey": "26_503"
+        },
+        {
+          "id": 578,
+          "sensorId": "S115",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:09:38.000Z",
+          "recordKey": "26_578"
+        },
+        {
+          "id": 587,
+          "sensorId": "S087",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:09:47.000Z",
+          "recordKey": "26_587"
+        },
+        {
+          "id": 623,
+          "sensorId": "S079",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:10:23.000Z",
+          "recordKey": "26_623"
+        },
+        {
+          "id": 663,
+          "sensorId": "S030",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:11:03.000Z",
+          "recordKey": "26_663"
+        },
+        {
+          "id": 748,
+          "sensorId": "S077",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:12:28.000Z",
+          "recordKey": "26_748"
+        },
+        {
+          "id": 749,
+          "sensorId": "S043",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:12:29.000Z",
+          "recordKey": "26_749"
+        },
+        {
+          "id": 753,
+          "sensorId": "S038",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:12:33.000Z",
+          "recordKey": "26_753"
+        },
+        {
+          "id": 754,
+          "sensorId": "S048",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:12:34.000Z",
+          "recordKey": "26_754"
+        },
+        {
+          "id": 786,
+          "sensorId": "S098",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:13:06.000Z",
+          "recordKey": "26_786"
+        },
+        {
+          "id": 826,
+          "sensorId": "S042",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:13:46.000Z",
+          "recordKey": "26_826"
+        },
+        {
+          "id": 833,
+          "sensorId": "S084",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:13:53.000Z",
+          "recordKey": "26_833"
+        },
+        {
+          "id": 850,
+          "sensorId": "S013",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:14:10.000Z",
+          "recordKey": "26_850"
+        },
+        {
+          "id": 891,
+          "sensorId": "S067",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:14:51.000Z",
+          "recordKey": "26_891"
+        },
+        {
+          "id": 902,
+          "sensorId": "S002",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:15:02.000Z",
+          "recordKey": "26_902"
+        },
+        {
+          "id": 911,
+          "sensorId": "S006",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:15:11.000Z",
+          "recordKey": "26_911"
+        },
+        {
+          "id": 913,
+          "sensorId": "S105",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:15:13.000Z",
+          "recordKey": "26_913"
+        },
+        {
+          "id": 922,
+          "sensorId": "S114",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:15:22.000Z",
+          "recordKey": "26_922"
+        },
+        {
+          "id": 972,
+          "sensorId": "S020",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:16:12.000Z",
+          "recordKey": "26_972"
+        },
+        {
+          "id": 991,
+          "sensorId": "S005",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:16:31.000Z",
+          "recordKey": "26_991"
+        },
+        {
+          "id": 996,
+          "sensorId": "S005",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:16:36.000Z",
+          "recordKey": "26_996"
+        },
+        {
+          "id": 18,
+          "sensorId": "S050",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:00:18.000Z",
+          "recordKey": "26_18"
+        },
+        {
+          "id": 28,
+          "sensorId": "S087",
+          "temperature": 26,
+          "timestamp": "2026-05-27T10:00:28.000Z",
+          "recordKey": "26_28"
+        }
+      ],
+      "31": [
+        {
+          "id": 40,
+          "sensorId": "S098",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:00:40.000Z",
+          "recordKey": "31_40"
+        },
+        {
+          "id": 57,
+          "sensorId": "S044",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:00:57.000Z",
+          "recordKey": "31_57"
+        },
+        {
+          "id": 87,
+          "sensorId": "S115",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:01:27.000Z",
+          "recordKey": "31_87"
+        },
+        {
+          "id": 108,
+          "sensorId": "S007",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:01:48.000Z",
+          "recordKey": "31_108"
+        },
+        {
+          "id": 122,
+          "sensorId": "S029",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:02:02.000Z",
+          "recordKey": "31_122"
+        },
+        {
+          "id": 127,
+          "sensorId": "S037",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:02:07.000Z",
+          "recordKey": "31_127"
+        },
+        {
+          "id": 141,
+          "sensorId": "S034",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:02:21.000Z",
+          "recordKey": "31_141"
+        },
+        {
+          "id": 165,
+          "sensorId": "S091",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:02:45.000Z",
+          "recordKey": "31_165"
+        },
+        {
+          "id": 166,
+          "sensorId": "S052",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:02:46.000Z",
+          "recordKey": "31_166"
+        },
+        {
+          "id": 211,
+          "sensorId": "S082",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:03:31.000Z",
+          "recordKey": "31_211"
+        },
+        {
+          "id": 221,
+          "sensorId": "S031",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:03:41.000Z",
+          "recordKey": "31_221"
+        },
+        {
+          "id": 222,
+          "sensorId": "S052",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:03:42.000Z",
+          "recordKey": "31_222"
+        },
+        {
+          "id": 246,
+          "sensorId": "S040",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:04:06.000Z",
+          "recordKey": "31_246"
+        },
+        {
+          "id": 276,
+          "sensorId": "S115",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:04:36.000Z",
+          "recordKey": "31_276"
+        },
+        {
+          "id": 323,
+          "sensorId": "S030",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:05:23.000Z",
+          "recordKey": "31_323"
+        },
+        {
+          "id": 334,
+          "sensorId": "S077",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:05:34.000Z",
+          "recordKey": "31_334"
+        },
+        {
+          "id": 362,
+          "sensorId": "S062",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:06:02.000Z",
+          "recordKey": "31_362"
+        },
+        {
+          "id": 393,
+          "sensorId": "S078",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:06:33.000Z",
+          "recordKey": "31_393"
+        },
+        {
+          "id": 423,
+          "sensorId": "S042",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:07:03.000Z",
+          "recordKey": "31_423"
+        },
+        {
+          "id": 439,
+          "sensorId": "S104",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:07:19.000Z",
+          "recordKey": "31_439"
+        },
+        {
+          "id": 456,
+          "sensorId": "S017",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:07:36.000Z",
+          "recordKey": "31_456"
+        },
+        {
+          "id": 489,
+          "sensorId": "S112",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:08:09.000Z",
+          "recordKey": "31_489"
+        },
+        {
+          "id": 547,
+          "sensorId": "S083",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:09:07.000Z",
+          "recordKey": "31_547"
+        },
+        {
+          "id": 670,
+          "sensorId": "S050",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:11:10.000Z",
+          "recordKey": "31_670"
+        },
+        {
+          "id": 685,
+          "sensorId": "S082",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:11:25.000Z",
+          "recordKey": "31_685"
+        },
+        {
+          "id": 720,
+          "sensorId": "S086",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:12:00.000Z",
+          "recordKey": "31_720"
+        },
+        {
+          "id": 722,
+          "sensorId": "S072",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:12:02.000Z",
+          "recordKey": "31_722"
+        },
+        {
+          "id": 743,
+          "sensorId": "S023",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:12:23.000Z",
+          "recordKey": "31_743"
+        },
+        {
+          "id": 815,
+          "sensorId": "S106",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:13:35.000Z",
+          "recordKey": "31_815"
+        },
+        {
+          "id": 846,
+          "sensorId": "S011",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:14:06.000Z",
+          "recordKey": "31_846"
+        },
+        {
+          "id": 858,
+          "sensorId": "S035",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:14:18.000Z",
+          "recordKey": "31_858"
+        },
+        {
+          "id": 872,
+          "sensorId": "S109",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:14:32.000Z",
+          "recordKey": "31_872"
+        },
+        {
+          "id": 876,
+          "sensorId": "S106",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:14:36.000Z",
+          "recordKey": "31_876"
+        },
+        {
+          "id": 888,
+          "sensorId": "S014",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:14:48.000Z",
+          "recordKey": "31_888"
+        },
+        {
+          "id": 889,
+          "sensorId": "S072",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:14:49.000Z",
+          "recordKey": "31_889"
+        },
+        {
+          "id": 903,
+          "sensorId": "S001",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:15:03.000Z",
+          "recordKey": "31_903"
+        },
+        {
+          "id": 981,
+          "sensorId": "S065",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:16:21.000Z",
+          "recordKey": "31_981"
+        },
+        {
+          "id": 986,
+          "sensorId": "S037",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:16:26.000Z",
+          "recordKey": "31_986"
+        },
+        {
+          "id": 994,
+          "sensorId": "S016",
+          "temperature": 31,
+          "timestamp": "2026-05-27T10:16:34.000Z",
+          "recordKey": "31_994"
+        }
+      ],
+      "37": [
+        {
+          "id": 39,
+          "sensorId": "S022",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:00:39.000Z",
+          "recordKey": "37_39"
+        },
+        {
+          "id": 44,
+          "sensorId": "S003",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:00:44.000Z",
+          "recordKey": "37_44"
+        },
+        {
+          "id": 123,
+          "sensorId": "S095",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:02:03.000Z",
+          "recordKey": "37_123"
+        },
+        {
+          "id": 157,
+          "sensorId": "S065",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:02:37.000Z",
+          "recordKey": "37_157"
+        },
+        {
+          "id": 164,
+          "sensorId": "S026",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:02:44.000Z",
+          "recordKey": "37_164"
+        },
+        {
+          "id": 201,
+          "sensorId": "S100",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:03:21.000Z",
+          "recordKey": "37_201"
+        },
+        {
+          "id": 205,
+          "sensorId": "S007",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:03:25.000Z",
+          "recordKey": "37_205"
+        },
+        {
+          "id": 296,
+          "sensorId": "S085",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:04:56.000Z",
+          "recordKey": "37_296"
+        },
+        {
+          "id": 328,
+          "sensorId": "S018",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:05:28.000Z",
+          "recordKey": "37_328"
+        },
+        {
+          "id": 358,
+          "sensorId": "S094",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:05:58.000Z",
+          "recordKey": "37_358"
+        },
+        {
+          "id": 374,
+          "sensorId": "S105",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:06:14.000Z",
+          "recordKey": "37_374"
+        },
+        {
+          "id": 403,
+          "sensorId": "S063",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:06:43.000Z",
+          "recordKey": "37_403"
+        },
+        {
+          "id": 414,
+          "sensorId": "S091",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:06:54.000Z",
+          "recordKey": "37_414"
+        },
+        {
+          "id": 424,
+          "sensorId": "S065",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:07:04.000Z",
+          "recordKey": "37_424"
+        },
+        {
+          "id": 490,
+          "sensorId": "S047",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:08:10.000Z",
+          "recordKey": "37_490"
+        },
+        {
+          "id": 550,
+          "sensorId": "S011",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:09:10.000Z",
+          "recordKey": "37_550"
+        },
+        {
+          "id": 571,
+          "sensorId": "S053",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:09:31.000Z",
+          "recordKey": "37_571"
+        },
+        {
+          "id": 626,
+          "sensorId": "S059",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:10:26.000Z",
+          "recordKey": "37_626"
+        },
+        {
+          "id": 726,
+          "sensorId": "S077",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:12:06.000Z",
+          "recordKey": "37_726"
+        },
+        {
+          "id": 733,
+          "sensorId": "S022",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:12:13.000Z",
+          "recordKey": "37_733"
+        },
+        {
+          "id": 735,
+          "sensorId": "S088",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:12:15.000Z",
+          "recordKey": "37_735"
+        },
+        {
+          "id": 769,
+          "sensorId": "S072",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:12:49.000Z",
+          "recordKey": "37_769"
+        },
+        {
+          "id": 791,
+          "sensorId": "S034",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:13:11.000Z",
+          "recordKey": "37_791"
+        },
+        {
+          "id": 861,
+          "sensorId": "S058",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:14:21.000Z",
+          "recordKey": "37_861"
+        },
+        {
+          "id": 867,
+          "sensorId": "S036",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:14:27.000Z",
+          "recordKey": "37_867"
+        },
+        {
+          "id": 887,
+          "sensorId": "S006",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:14:47.000Z",
+          "recordKey": "37_887"
+        },
+        {
+          "id": 925,
+          "sensorId": "S054",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:15:25.000Z",
+          "recordKey": "37_925"
+        },
+        {
+          "id": 943,
+          "sensorId": "S021",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:15:43.000Z",
+          "recordKey": "37_943"
+        },
+        {
+          "id": 969,
+          "sensorId": "S091",
+          "temperature": 37,
+          "timestamp": "2026-05-27T10:16:09.000Z",
+          "recordKey": "37_969"
+        }
+      ],
+      "-4": [
+        {
+          "id": 255,
+          "sensorId": "S116",
+          "temperature": -4,
+          "timestamp": "2026-05-27T10:04:15.000Z",
+          "recordKey": "-4_255"
+        },
+        {
+          "id": 313,
+          "sensorId": "S067",
+          "temperature": -4,
+          "timestamp": "2026-05-27T10:05:13.000Z",
+          "recordKey": "-4_313"
+        },
+        {
+          "id": 544,
+          "sensorId": "S112",
+          "temperature": -4,
+          "timestamp": "2026-05-27T10:09:04.000Z",
+          "recordKey": "-4_544"
+        },
+        {
+          "id": 668,
+          "sensorId": "S094",
+          "temperature": -4,
+          "timestamp": "2026-05-27T10:11:08.000Z",
+          "recordKey": "-4_668"
+        },
+        {
+          "id": 683,
+          "sensorId": "S110",
+          "temperature": -4,
+          "timestamp": "2026-05-27T10:11:23.000Z",
+          "recordKey": "-4_683"
+        }
+      ],
+      "-2": [
+        {
+          "id": 572,
+          "sensorId": "S022",
+          "temperature": -2,
+          "timestamp": "2026-05-27T10:09:32.000Z",
+          "recordKey": "-2_572"
+        },
+        {
+          "id": 664,
+          "sensorId": "S009",
+          "temperature": -2,
+          "timestamp": "2026-05-27T10:11:04.000Z",
+          "recordKey": "-2_664"
+        },
+        {
+          "id": 666,
+          "sensorId": "S047",
+          "temperature": -2,
+          "timestamp": "2026-05-27T10:11:06.000Z",
+          "recordKey": "-2_666"
+        },
+        {
+          "id": 751,
+          "sensorId": "S079",
+          "temperature": -2,
+          "timestamp": "2026-05-27T10:12:31.000Z",
+          "recordKey": "-2_751"
+        },
+        {
+          "id": 764,
+          "sensorId": "S042",
+          "temperature": -2,
+          "timestamp": "2026-05-27T10:12:44.000Z",
+          "recordKey": "-2_764"
+        },
+        {
+          "id": 772,
+          "sensorId": "S069",
+          "temperature": -2,
+          "timestamp": "2026-05-27T10:12:52.000Z",
+          "recordKey": "-2_772"
+        }
+      ],
+      "-6": [
+        {
+          "id": 696,
+          "sensorId": "S035",
+          "temperature": -6,
+          "timestamp": "2026-05-27T10:11:36.000Z",
+          "recordKey": "-6_696"
+        },
+        {
+          "id": 795,
+          "sensorId": "S073",
+          "temperature": -6,
+          "timestamp": "2026-05-27T10:13:15.000Z",
+          "recordKey": "-6_795"
+        }
+      ]
+    },
+    "replica": {
+      "27": [
+        {
+          "id": 55,
+          "sensorId": "S090",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:00:55.000Z",
+          "recordKey": "27_55"
+        },
+        {
+          "id": 75,
+          "sensorId": "S099",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:01:15.000Z",
+          "recordKey": "27_75"
+        },
+        {
+          "id": 116,
+          "sensorId": "S048",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:01:56.000Z",
+          "recordKey": "27_116"
+        },
+        {
+          "id": 202,
+          "sensorId": "S082",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:03:22.000Z",
+          "recordKey": "27_202"
+        },
+        {
+          "id": 240,
+          "sensorId": "S081",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:04:00.000Z",
+          "recordKey": "27_240"
+        },
+        {
+          "id": 301,
+          "sensorId": "S039",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:05:01.000Z",
+          "recordKey": "27_301"
+        },
+        {
+          "id": 344,
+          "sensorId": "S088",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:05:44.000Z",
+          "recordKey": "27_344"
+        },
+        {
+          "id": 369,
+          "sensorId": "S013",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:06:09.000Z",
+          "recordKey": "27_369"
+        },
+        {
+          "id": 451,
+          "sensorId": "S070",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:07:31.000Z",
+          "recordKey": "27_451"
+        },
+        {
+          "id": 460,
+          "sensorId": "S042",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:07:40.000Z",
+          "recordKey": "27_460"
+        },
+        {
+          "id": 463,
+          "sensorId": "S038",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:07:43.000Z",
+          "recordKey": "27_463"
+        },
+        {
+          "id": 473,
+          "sensorId": "S101",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:07:53.000Z",
+          "recordKey": "27_473"
+        },
+        {
+          "id": 482,
+          "sensorId": "S088",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:08:02.000Z",
+          "recordKey": "27_482"
+        },
+        {
+          "id": 557,
+          "sensorId": "S106",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:09:17.000Z",
+          "recordKey": "27_557"
+        },
+        {
+          "id": 606,
+          "sensorId": "S046",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:10:06.000Z",
+          "recordKey": "27_606"
+        },
+        {
+          "id": 625,
+          "sensorId": "S106",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:10:25.000Z",
+          "recordKey": "27_625"
+        },
+        {
+          "id": 648,
+          "sensorId": "S047",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:10:48.000Z",
+          "recordKey": "27_648"
+        },
+        {
+          "id": 693,
+          "sensorId": "S018",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:11:33.000Z",
+          "recordKey": "27_693"
+        },
+        {
+          "id": 714,
+          "sensorId": "S018",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:11:54.000Z",
+          "recordKey": "27_714"
+        },
+        {
+          "id": 721,
+          "sensorId": "S048",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:12:01.000Z",
+          "recordKey": "27_721"
+        },
+        {
+          "id": 755,
+          "sensorId": "S038",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:12:35.000Z",
+          "recordKey": "27_755"
+        },
+        {
+          "id": 770,
+          "sensorId": "S002",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:12:50.000Z",
+          "recordKey": "27_770"
+        },
+        {
+          "id": 794,
+          "sensorId": "S038",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:13:14.000Z",
+          "recordKey": "27_794"
+        },
+        {
+          "id": 830,
+          "sensorId": "S096",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:13:50.000Z",
+          "recordKey": "27_830"
+        },
+        {
+          "id": 853,
+          "sensorId": "S096",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:14:13.000Z",
+          "recordKey": "27_853"
+        },
+        {
+          "id": 901,
+          "sensorId": "S073",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:15:01.000Z",
+          "recordKey": "27_901"
+        },
+        {
+          "id": 915,
+          "sensorId": "S055",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:15:15.000Z",
+          "recordKey": "27_915"
+        },
+        {
+          "id": 919,
+          "sensorId": "S035",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:15:19.000Z",
+          "recordKey": "27_919"
+        },
+        {
+          "id": 974,
+          "sensorId": "S093",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:16:14.000Z",
+          "recordKey": "27_974"
+        },
+        {
+          "id": 8,
+          "sensorId": "S076",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:00:08.000Z",
+          "recordKey": "27_8"
+        },
+        {
+          "id": 32,
+          "sensorId": "S101",
+          "temperature": 27,
+          "timestamp": "2026-05-27T10:00:32.000Z",
+          "recordKey": "27_32"
+        }
+      ],
+      "48": [
+        {
+          "id": 357,
+          "sensorId": "S065",
+          "temperature": 48,
+          "timestamp": "2026-05-27T10:05:57.000Z",
+          "recordKey": "48_357"
+        },
+        {
+          "id": 622,
+          "sensorId": "S039",
+          "temperature": 48,
+          "timestamp": "2026-05-27T10:10:22.000Z",
+          "recordKey": "48_622"
+        },
+        {
+          "id": 792,
+          "sensorId": "S040",
+          "temperature": 48,
+          "timestamp": "2026-05-27T10:13:12.000Z",
+          "recordKey": "48_792"
+        }
+      ]
+    }
+  }
+}
