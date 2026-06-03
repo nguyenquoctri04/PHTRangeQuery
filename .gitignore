@@ -8,6 +8,9 @@ peer/node_modules/
 .pnpm-store/
 .yarn/
 
+DESIGN_DOCUMENT_VI.md
+DESIGN_JUSTIFICATION_REPORT.md
+
 # Logs
 *.log
 npm-debug.log*

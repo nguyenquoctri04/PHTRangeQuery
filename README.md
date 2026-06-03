@@ -3,7 +3,7 @@
 Đề tài #67: xây dựng hệ thống truy vấn khoảng trong mạng ngang hàng bằng
 **Prefix Hash Tree (PHT)** trên nền **Chord Distributed Hash Table (DHT)**.
 
-Hệ thống dùng dữ liệu cảm biến nhiệt độ. Mục tiêu là so sánh:
+Hệ thống dùng dữ liệu nhiệt độ có giá trị từ -20 đến 50. Mục tiêu là so sánh:
 
 - **Individual DHT point lookups**: tách range query thành nhiều lookup theo
   từng giá trị nhiệt độ.
@@ -293,23 +293,11 @@ dataset.
 ├── bootstrap-node/        # Bootstrap service
 ├── peer/                  # Peer service: Chord, PHT, query, storage
 ├── scripts/               # Dataset, load, demo, failure demo
-├── storage/               # Runtime local JSON storage, không cần push
+├── storage/               # Runtime local JSON storage
 ├── docker-compose.yml
 ├── package.json
 ├── REPORT.md
 └── README.md
 ```
 
-## 12. Ghi chú khi push GitHub
-
-Các file/thư mục runtime như `node_modules`, `storage`, `dataset.json`,
-`report-results.json`, logs và cache đã được loại trừ trong `.gitignore`.
-
-Các file nên push:
-
-- Source code trong `bootstrap-node`, `peer`, `scripts`
-- `docker-compose.yml`
-- `package.json`
-- `README.md`
-- `REPORT.md`
 
